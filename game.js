@@ -24,16 +24,16 @@ widthadjust();
     {
 		alert("x is the winner");
     }
-    // else{
+     // else{
     	// alert("the match draw");
-    // }
+     // }
     if(one=="y"&&two=="y"&&three=="y" || four=="y"&&five=="y"&&six=="y"||seven=="y"&&eight=="y"&&nine=="y"||one=="y"&&four=="y"&&seven=="y"||two=="y"&&five=="y"&&eight=="y"||three=="y"&&six=="y"&&nine=="y"||seven=="y"&&five=="y"&&three=="y"||one=="y"&&five=="y"&&nine=="y")
     {
 		alert("y is the winner");
     }
     // else{
-    	// alert("The match draw")
-    // }
+    //   alert("The match draw")
+    //  }
     
 }
 function reSet(){
